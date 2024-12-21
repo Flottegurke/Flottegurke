@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @Flottegurke
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning MySQL
-- 😄 Pronouns: he
-- ⚡ Fun fact: i like Jumping and Chess
+👋 Hi, I’m @Flottegurke
+
